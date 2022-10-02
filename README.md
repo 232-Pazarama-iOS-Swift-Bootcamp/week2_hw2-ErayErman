@@ -19,3 +19,8 @@ iOS hesap makinesi. Solda dik(Portrait), sağda yatay(Landscape) görünüm.
   
   
   PDF dosyasında görseller mevcuttur.
+  
+ 
+# Screenshots
+<img width="533" alt="Portrait" src="https://user-images.githubusercontent.com/55625400/193455561-6beeec8c-73c7-49a1-9d3d-37bfa5fb8965.png">
+<img width="941" alt="Landscape" src="https://user-images.githubusercontent.com/55625400/193455566-e1d33272-2323-4f18-b6a5-1ce48cf3be07.png">
