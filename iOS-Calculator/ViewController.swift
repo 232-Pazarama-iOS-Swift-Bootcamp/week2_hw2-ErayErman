@@ -85,16 +85,6 @@ class ViewController: UIViewController {
         dispTextView.text = num1
     }
     
-    @IBAction func btnClear(_ sender: Any) {
-        
-    }
-    
-    @IBAction func btnInteger(_ sender: Any) {
-        
-    }
-    
-    @IBAction func btnPercent(_ sender: Any) {
-    }
     
     @IBAction func btnPlus(_ sender: Any) {
         calculate()
